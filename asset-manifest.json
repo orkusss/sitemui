@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/sitemui/static/css/main.e6c13ad2.css",
+    "main.js": "/sitemui/static/js/main.8e151965.js",
+    "static/js/453.84c2bea5.chunk.js": "/sitemui/static/js/453.84c2bea5.chunk.js",
+    "index.html": "/sitemui/index.html",
+    "main.e6c13ad2.css.map": "/sitemui/static/css/main.e6c13ad2.css.map",
+    "main.8e151965.js.map": "/sitemui/static/js/main.8e151965.js.map",
+    "453.84c2bea5.chunk.js.map": "/sitemui/static/js/453.84c2bea5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.8e151965.js"
+  ]
+}
